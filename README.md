@@ -1,25 +1,29 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Taner is here. 
-                (Loading...)
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Taner Söyler Greets You With His Best Wishes..
+
+           
+<p align="center">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20GitHub%20page;I%20am%20AWS%20Devops%20Engineer;Solution%20Architect;+5%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=00FF00&vCenter=true&size=45%22"></a>  
+</p>
                 
-  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taner-söyler-10928512a/) 
+  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taner-söyler/) 
 <a href="https://renatsylr.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=renatsylr" alt="visitor counter" width="15%"/>
 <!-- <p align="center">  </p> -->
 
 ### What I'm using ? 🛠
  
-   I prefer Amazon Web Services & DevOps Tools.
+   Amazon Web Services & DevOps Tools are my choices.
 
-🌱 I’m addicted to learning and growing without stopping as the style of life.
+ I like constantly learning , improving and sharing as a lifestyle.
 
-💬 Ask me about anything that you want to learn via LinkedIn
+💬 Please contact me on LinkedIn to share about anything or produce a collaborative project or for any help I can provide.
 
  ## :hammer_and_wrench: Skills
  
-**AWS; EC2, , Load Balancer ,Auto Scaling, S3, RDA, CloudFormation,  VPC, CloudFront, Elastic Beanstalk, Route 53 **
+**AWS; EC2, , Load Balancer ,Auto Scaling, S3, RDS, CloudFormation,  VPC, CloudFront, Elastic Beanstalk, Route 53 **
 
 **PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE, SLACK **
 
-**DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JIRA SOFTWARE **
+**DEVOPS; KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JENKINS, MAVEN, NEXUS, JIRA SOFTWARE **
   
 ## 🚴 Skills 
 <p>
@@ -37,18 +41,18 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins"  height="48"/> </a>           
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="48"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 </p>
+
 
 ## 📊 Statistics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=renatsylr&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=renatsylr&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatsylr&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
-
 
 
 
