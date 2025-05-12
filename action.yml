@@ -1,0 +1,31 @@
+name: Workflow Run Wait
+description: wait for all `workflow_run` required workflows to be successful
+
+branding:
+  color: blue
+  icon: clock
+
+inputs:
+  github-token:
+    description: The GitHub token used to post comments on pull requests
+    default: ${{ github.token }}
+
+  timeout:
+    description: timeout before we stop trying (in milliseconds)
+    default: 30000
+
+  delay:
+    description: delay between status checks (in milliseconds)
+    default: 5000
+
+  ignore-cancelled:
+    description: ignore cancelled workflow runs
+    default: false
+
+  sha:
+    description: SHA to use (defaults to github.sha)
+    default: ${{ github.sha }}
+
+runs:
+  using: docker
+  image: docker://ghcr.io/ahmadnassri/action-workflow-run-wait
